@@ -1,8 +1,9 @@
-# a=eval('0xa9')
-# print(type(a))
-# a=0o13
-# print(a)
-#
+a=eval('0xa9')
+print(type(a))
+print(a)
+a=0o13
+print(a)
+
 # data=[1,2,3,4,5,6,7,8,9,'hello','ravi']
 # a=[]
 # b=[]
@@ -60,10 +61,10 @@
 
 
 
-n=input()
-l=[]
-l=n.split(",")
-k=[]
+# n=input()
+# l=[]
+# l=n.split(",")
+# k=[]
 
 #
 # for i in l:
@@ -74,5 +75,5 @@ k=[]
 #
 #
 #
-
+print(int('65'))
 
